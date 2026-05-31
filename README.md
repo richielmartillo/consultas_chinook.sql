@@ -18,7 +18,7 @@ Praticar comandos básicos e intermediários de SQL, incluindo:
 
 O arquivo principal da entrega da atividade é:
 
-`consultas_chinook_entrega.sql`
+`00-Atividade-Entrega.sql`
 
 Esse arquivo contém as consultas SQL solicitadas no exercício da EBAC.
 
